@@ -1,8 +1,6 @@
 # Data Science Bootcamp Projects
 
-Data science bootcamp with 'adToy'
-
-We learn 10 sprints during 4 month program.
+I have intensive learning 10 sprints during 4 month program including.
 
 - Spreadsheets
 - SQL database
@@ -15,4 +13,5 @@ We learn 10 sprints during 4 month program.
 - Essential Python for Data Analyst
 - Dashboard
 
-Badge :  https://www.credly.com/users/nattapat-lertpiriyametha
+Here is my mini project during learning.
+
