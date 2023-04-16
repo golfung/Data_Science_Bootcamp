@@ -51,3 +51,6 @@ I have intensive learning 10 sprints during 4 month program including.
   
 - [Python 3](https://colab.research.google.com/drive/1S2YYnu-7qcy6m3tmmQHLQ1NgQzuiMyKO?usp=sharing#scrollTo=kh-FBIrfrvE9) 
   - Get stock market data from Yahoo Finance API and Try to build simple ML model with sklearn.
+
+- [Web Scrapping](https://datalore.jetbrains.com/view/notebook/wcAPB9fgPhR9x6YhjL8if4)
+  - IMDB and Spec Phone Database Web Scrapping with `R` programming 
