@@ -36,3 +36,8 @@ I have intensive learning 10 sprints during 4 month program including.
   
 - [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/c2b1b302-a534-4204-b443-61fb65dafc1f/page/6kU9C)
   - Sale report 2014 - 2017 dataset
+
+- [Dashboard (Tableau)](https://public.tableau.com/app/profile/nattapat.lertpiriyametha/viz/Myfirsttableau_16716052889070/Myfirstdashbord)
+- [Machine Learning](https://colab.research.google.com/drive/1D6paRlsmKhICe0BWuC7stU2a-5khPIUG?usp=sharing#scrollTo=zUMe4uWuCaAE)
+  - Regression technique : Predict "Gold" price.
+  - Classification technique : Cross Sell Prediction
