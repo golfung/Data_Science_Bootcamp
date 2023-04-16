@@ -38,6 +38,16 @@ I have intensive learning 10 sprints during 4 month program including.
   - Sale report 2014 - 2017 dataset
 
 - [Dashboard (Tableau)](https://public.tableau.com/app/profile/nattapat.lertpiriyametha/viz/Myfirsttableau_16716052889070/Myfirstdashbord)
+- [Dashboard (Power BI)](https://drive.google.com/file/d/18jKyfRF9NzwxqtQhR0ScX6GnyOXC1v-M/view)
 - [Machine Learning](https://colab.research.google.com/drive/1D6paRlsmKhICe0BWuC7stU2a-5khPIUG?usp=sharing#scrollTo=zUMe4uWuCaAE)
   - Regression technique : Predict "Gold" price.
   - Classification technique : Cross Sell Prediction
+
+- [Python 1](https://datalore.jetbrains.com/view/notebook/DZgmfI1zLlNjamm9SC38NW)
+  - Analyzing Data
+  
+- [Python 2](https://colab.research.google.com/drive/1SCnKmMlClJ_qhwxe7X5k1m0lLyqgomUY?usp=sharing)
+  - Create a rock-paper-scissors game. Allows players to play as many rounds as they want. At the end of the game, sum up WIN, TIE, LOSS.
+  
+- [Python 3](https://colab.research.google.com/drive/1S2YYnu-7qcy6m3tmmQHLQ1NgQzuiMyKO?usp=sharing#scrollTo=kh-FBIrfrvE9) 
+  - Get stock market data from Yahoo Finance API and Try to build simple ML model with sklearn.
