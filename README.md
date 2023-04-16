@@ -27,3 +27,12 @@ I have intensive learning 10 sprints during 4 month program including.
   
 - [Data Transformation](https://datalore.jetbrains.com/view/notebook/LFinBmlP9FIi0LNgz1J2sH)
   - Analysis 5 question of "nycflights13" data with dplyr in `R` programming
+
+- [Data visualization](https://drive.google.com/file/d/1Fk3771gSP9Geb8E2gFqOZbcDDggibD_X/view)
+  - Data visualization in 5 chart with `ggplot2` function in `R` programming.
+  
+- [Statistic 101](https://drive.google.com/file/d/1s1aipE74sZ5etKh6-WE7gMLCxtH4rNJ2/view)
+  - Build a model, Logistic Train model, Evaluating model, Create a confusion matrix, Model evaluation
+  
+- [Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/c2b1b302-a534-4204-b443-61fb65dafc1f/page/6kU9C)
+  - Sale report 2014 - 2017 dataset
